@@ -1,4 +1,5 @@
 alpha_order = "abcdefghijklmnopqrstuvwxyz"
+s = 'asldkfjlaskdjf'
 curr_string = ""
 substrings = []
 char_index = 0
